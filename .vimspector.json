@@ -1,0 +1,13 @@
+{
+  "configurations":{
+    "run":{
+      "default": true,
+      "adapter": "debugpy",
+      "configuration": {
+        "request": "launch",
+        "program": "${workspaceRoot}/cdma.py",
+        "cwd": "${workspaceRoot}"
+      }
+    }
+  }
+}
